@@ -95,6 +95,8 @@ The system uses specialized AI agents and LangChain Runnable pipelines to divide
                          └───────────────────┘
 
 
+![alt text](image.png)
+
 🛠️ Tech Stack
 Technology	Purpose
 Python	Core programming language
