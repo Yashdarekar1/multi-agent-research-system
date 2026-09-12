@@ -1,3 +1,6 @@
+#Live Demo - https://multi-agent-research-system-y.streamlit.app/
+
+
 # 🔬 ResearchForge AI — Multi-Agent Research System
 
 ResearchForge AI is an AI-powered multi-agent research system that automates the research process by searching the web, extracting information from relevant sources, generating a structured research report, and critically reviewing the final output.
