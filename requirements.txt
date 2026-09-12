@@ -1,0 +1,27 @@
+# Core LangChain
+langchain
+langchain-core
+
+# Multi-agent orchestration + ReAct agent
+langgraph
+
+# Groq LLM
+langchain-groq
+
+# Tavily web search
+langchain-tavily
+tavily-python
+
+# BeautifulSoup web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+#output look better.
+rich
+
+#UI
+streamlit
